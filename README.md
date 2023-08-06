@@ -1,4 +1,4 @@
-![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1)
+![Малый баннер]([https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1](https://3408707014-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgV6eWDZUUCHOxowWJVb8%2Fuploads%2FRxJjhDtU1HcfTUpwJqfL%2FLaunchBar.svg?alt=media&token=b93f50ab-40b7-4fd2-85bc-af5fecea02cc))
 
 
 - 👋 Hi, I’m Founder & CEO
