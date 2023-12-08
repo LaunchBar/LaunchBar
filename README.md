@@ -22,7 +22,7 @@
 - 💫 Surfing
 - 🔥 Staking
 - 🏆 Hippodrome
-- 📊 To connect to the platform, use the 🦊 МетаМаск latch...
+- 📊 Connect Wallet 🦊 WEB3...
 
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
