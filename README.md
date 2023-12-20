@@ -19,6 +19,7 @@
 - 👬 Affiliate program
 - 💲 SWAP
 - ☂️ Airdrop
+- 🔥 PreSale
 - 💫 Surfing
 - 🔥 Staking
 - 🏆 Hippodrome
