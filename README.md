@@ -27,7 +27,7 @@
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
-- Links -
+- Links - Social Networks
 - 🌐 https://launchbar.pro
 - 🇷🇺 https://tcpcoins.net
 - 🇬🇧 https://en.tcpcoins.net
