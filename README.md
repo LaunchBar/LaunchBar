@@ -21,9 +21,8 @@
 - ☂️ Airdrop
 - 🔥 PreSale
 - 💫 Surfing
-- 🔥 Staking
+- 📊 Staking
 - 🏆 Hippodrome
-- 📊 Connect Wallet WEB3.0
 
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
