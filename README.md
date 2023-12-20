@@ -13,7 +13,7 @@
 - 💠 Audit - [BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
-- 🔉 LaunchBar WEB3.0 platform 🚀🚀🚀
+- 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
