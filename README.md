@@ -37,9 +37,7 @@
 - 3️⃣ https://discord.com/invite/EWqqBu4
 
 - 💎 LZC is a service token of the LaunchBar project and platform. LZC is accepted as payment for marketing, advertising, promotion, etc. services in the LaunchBar terminal and is tightly integrated with all elements of the LizaCoin ecosystem.
-- ⚒ LaunchBar is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
-A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
-LaunchBar WEB3 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI, GameFi and other coins.
+- ⚒ The best service for voting for cryptocurrency projects and finding new coins. Explore coins verified with all market data including coin price, market capitalization, liquidity, etc. Learn about popular coins from AirDprop's giveaways, presales and honest launches. Explore, buy and earn with LaunchBar - find your 100x precious crypto diamond!
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
