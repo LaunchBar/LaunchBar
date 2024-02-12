@@ -18,10 +18,11 @@
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
 - 💲 Swap
-- ☂️ Airdrop
 - 🔥 PreSale
-- 💫 Surfing
 - 📊 Staking
+- ☂️ Airdrop
+- 💫 Surfing
+- 💫 Video Views
 - 🏆 Hippodrome
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
