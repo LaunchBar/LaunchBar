@@ -15,14 +15,14 @@
 - 🔉 LaunchBar WEB 3.0 platform 🚀
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - ⚒ Add Coins (free)
-- 👬 Partner programme
+- ☂️ Airdrop (Add AirDrop)
 - 💲 Swap
 - 🔥 PreSale (ICO, IDO, IEO, INO, ITO, IGO)
 - 📊 Staking (A - B)
-- ☂️ Airdrop (Add AirDrop)
 - 💫 Surfing (soon)
 - 💫 Video Views (soon)
 - 🏆 Hippodrome (soon)
+- 👬 Partner programme
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
