@@ -15,7 +15,7 @@
 - 🔉 LaunchBar WEB 3.0 platform 🚀
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
-- 👬 Affiliate program
+- 👬 Affiliate
 - 💲 Swap
 - 🔥 PreSale
 - 📊 Staking
