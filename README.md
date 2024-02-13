@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Founder & CEO
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
-- 💎 Our Token LizaCoin (BEP-20) 💎
+- 💎 Token LizaCoin (BEP-20)
 - ✅ Symbol: LZC
 - ✅ Total Supply: 100,000
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
@@ -21,9 +21,9 @@
 - 🔥 PreSale
 - 📊 Staking
 - ☂️ Airdrop
-- 💫 Surfing
-- 💫 Video Views
-- 🏆 Hippodrome
+- 💫 Surfing (soon)
+- 💫 Video Views (soon)
+- 🏆 Hippodrome (soon)
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
