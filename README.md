@@ -1,6 +1,5 @@
 ![Малый баннер](https://3408707014-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgV6eWDZUUCHOxowWJVb8%2Fuploads%2FRxJjhDtU1HcfTUpwJqfL%2FLaunchBar.svg?alt=media&token=b93f50ab-40b7-4fd2-85bc-af5fecea02cc)
 
-
 - 👋 Hi, I’m Founder & CEO
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
@@ -13,7 +12,7 @@
 - 💠 Audit - [BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
-- 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
+- 🔉 LaunchBar WEB 3.0 platform 🚀
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
