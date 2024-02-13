@@ -17,7 +17,7 @@
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate
 - 💲 Swap
-- 🔥 PreSale
+- 🔥 PreSale (IDO, IEO, ICO, INO, ITO, IGO)
 - 📊 Staking
 - ☂️ Airdrop
 - 💫 Surfing (soon)
