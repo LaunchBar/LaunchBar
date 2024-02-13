@@ -13,13 +13,13 @@
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀
-- ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
+- ⚒ Add Coins (free)
 - 👬 Partner programme
 - 💲 Swap
 - 🔥 PreSale (ICO, IDO, IEO, INO, ITO, IGO)
 - 📊 Staking (A - B)
-- ☂️ Airdrop
+- ☂️ Airdrop (Add AirDrop)
 - 💫 Surfing (soon)
 - 💫 Video Views (soon)
 - 🏆 Hippodrome (soon)
