@@ -18,7 +18,7 @@
 - 👬 Partner programme
 - 💲 Swap
 - 🔥 PreSale (ICO, IDO, IEO, INO, ITO, IGO)
-- 📊 Staking
+- 📊 Staking (A - B)
 - ☂️ Airdrop
 - 💫 Surfing (soon)
 - 💫 Video Views (soon)
