@@ -9,7 +9,7 @@
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
 - 💠 KYC - [AuditRateTech](https://github.com/faty007/KYC)
-- 💠 Audit - [BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
+- 💠 Audit - [BlockSafu](https://blocksafu.com/audit/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀
