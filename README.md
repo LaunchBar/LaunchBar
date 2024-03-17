@@ -28,7 +28,6 @@
 - 👬 Partner programme
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
-- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - Links - Social Networks
 - 🌐 https://launchbar.pro
@@ -38,6 +37,8 @@
 - 2️⃣ https://t.me/fatygroup
 - 2️⃣ https://t.me/metamarketnews
 - 3️⃣ https://discord.com/invite/EWqqBu4
+
+- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - 💎 LZC is a service token of the LaunchBar project and platform. LZC is accepted as payment for marketing, advertising, promotion, etc. services in the LaunchBar terminal and is tightly integrated with all elements of the LizaCoin ecosystem.
 - ⚒ Ranking and voting service for cryptocurrency projects, search for new coins. Explore coins, market data, prices, market cap, liquidity. Learn about popular pre-sale tokens and fair launch tokens. Explore, buy and earn with WEB3 LaunchBar and find your pearl!
