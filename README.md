@@ -1,4 +1,4 @@
-![Малый баннер](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/other/media-kit)
+![Малый баннер] (https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/other/media-kit)
 
 - 👋 Hi, I’m Founder & CEO !!!
 - 👀 Our project with marketing purposes and not only...
