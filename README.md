@@ -16,7 +16,7 @@
 - 👍 Coin Voting, Rating, Promoted, Portfolio, etc ...
 - ⚒ Add Coins (Free)
 - ☂️ Add Airdrop (Free)
-- 💲 Swap - BNB, BUSDT, USDT, USDC > LZC
+- 💲 Swap - BNB, BUSD, USDT, USDC > LZC
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO -(Soon)
 - 📊 Staking (A) (B - Soon)
 - 💫 Surfing (Soon)
