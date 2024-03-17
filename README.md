@@ -1,4 +1,4 @@
-![Малый баннер](https://3408707014-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgV6eWDZUUCHOxowWJVb8%2Fuploads%2FRxJjhDtU1HcfTUpwJqfL%2FLaunchBar.svg?alt=media&token=b93f50ab-40b7-4fd2-85bc-af5fecea02cc)
+![Малый баннер](https://lizacoin.gitbook.io/~gitbook/image?url=https:%2F%2F2938152401-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FvfqNUBP6PJMHLS71BTZF%252Fuploads%252Fg0ykIjDY4sOjGcDfd8Dc%252F1-%25201LaunchBar.png%3Falt=media%26token=2e57db4f-67f8-415f-9a21-2bbda5ce26a9&width=768&dpr=1&quality=100&sign=170d8f78ec115909b31cd9d94e28bf3f4d2b366f21694b9509ae0d7baf2ef089)
 
 - 👋 Hi, I’m Founder & CEO !!!
 - 👀 Our project with marketing purposes and not only...
