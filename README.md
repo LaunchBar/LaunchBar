@@ -23,9 +23,9 @@
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO - (Soon)
 - 📊 Staking LZC (Plan-A), (Plan-B - Soon)
 - 💫 Surfing (Soon)
-- 💫 Press-Release
 - 🏆 Hippodrome (Soon)
 - 👬 Partner programme
+- 💫 Press-Release
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
