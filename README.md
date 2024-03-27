@@ -23,7 +23,7 @@
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO - (Soon)
 - 📊 Staking LZC (Plan-A), (Plan-B - Soon)
 - 💫 Surfing (Soon)
-- 💫 Video Views (Soon)
+- 💫 Press-Release
 - 🏆 Hippodrome (Soon)
 - 👬 Partner programme
 
