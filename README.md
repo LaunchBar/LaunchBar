@@ -4,14 +4,20 @@
 
 ![Малый баннер](https://lizacoin.gitbook.io/~gitbook/image?url=https:%2F%2F935373102-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgV6eWDZUUCHOxowWJVb8%252Fuploads%252FBKmuwCRMsWY2dKKYodWW%252Flizacoin.svg%3Falt=media%26token=8265c0db-2827-431c-9071-964f05a0bd58&width=768&dpr=1&quality=100&sign=f8c48c12e4a905f78b266eac4ac5b7f86532fa52f60fd13e51afff1de3b31577)
   
-- 💎 Token LizaCoin (BEP-20)
+- 🐶 Token LizaCoin (BEP-20)
 - ✅ Symbol: LZC
 - ✅ Total Supply: 100,000
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
-- 💠 KYC - [AuditRateTech](https://github.com/faty007/KYC)
 - 💠 Audit - [BlockSafu](https://blocksafu.com/audit/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
+
+![Малый баннер](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/img/full_kLNm02Qq.gif)
+
+- 💎 Token MAREMMA (Solana)
+- ✅ Symbol: MAREMMA
+- ✅ Total Supply: 1,000,000,000
+- ✅ Contract: [BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp](https://solscan.io/token/BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp)
 
 ![Малый баннер](https://lizacoin.gitbook.io/~gitbook/image?url=https:%2F%2F935373102-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgV6eWDZUUCHOxowWJVb8%252Fuploads%252FRxJjhDtU1HcfTUpwJqfL%252FLaunchBar.svg%3Falt=media%26token=b93f50ab-40b7-4fd2-85bc-af5fecea02cc&width=768&dpr=1&quality=100&sign=05b33eecdcfd0700106d8eac2bf6ef048f3963ed90f69709e94b1628f247b774)
 
