@@ -27,10 +27,11 @@
 - ⚒ Add Coins (Free)
 - ☂️ Add Airdrop (Free)
 - 💲 Swap - BNB, BUSD, USDT, USDC > LZC
-- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO - (Soon)
+- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO
 - 📊 Staking LZC (Plan-A), (Plan-B - Soon)
 - 💫 Surfing (Soon)
 - 🏆 Hippodrome (Soon)
+- 🏆 Dog races (Soon)
 - 👬 Partner programme
 - 💫 Press-Release
 
