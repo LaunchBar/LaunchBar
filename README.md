@@ -22,8 +22,8 @@
 
 ![Малый баннер](https://lizacoin.gitbook.io/~gitbook/image?url=https:%2F%2F935373102-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgV6eWDZUUCHOxowWJVb8%252Fuploads%252FRxJjhDtU1HcfTUpwJqfL%252FLaunchBar.svg%3Falt=media%26token=b93f50ab-40b7-4fd2-85bc-af5fecea02cc&width=768&dpr=1&quality=100&sign=05b33eecdcfd0700106d8eac2bf6ef048f3963ed90f69709e94b1628f247b774)
 
-- 🔉 LaunchBar WEB 3.0 platform 🚀
-- 👍 Coin Voting, Rating, Promoted, Portfolio, etc ...
+- 🔉 LaunchBar WEB 3.0 platform 
+- 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
 - 💫 Сщшт, AirDrop, PreSale & Press-Release List
 - ☂️ Add a Coin (Free)
 - ☂️ Add an Airdrop (Free)
