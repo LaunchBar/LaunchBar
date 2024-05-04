@@ -24,7 +24,7 @@
 
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
-- 💫 Сщшт, AirDrop, PreSale & Press-Release List
+- 💫 Coin, AirDrop, PreSale & Press-Release List
 - ☂️ Add a Coin (Free)
 - ☂️ Add an Airdrop (Free)
 - ☂️ Add a Project Sale (Free)
