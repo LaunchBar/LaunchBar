@@ -16,7 +16,8 @@
 
 - 💎 Token MAREMMA (Solana)
 - ✅ Symbol: MAREMMA
-- ✅ Total Supply: 200,000,000 (800,000,000 burn)
+- ✅ Total Supply: 1 billion
+- ✅ Burn: 800 million
 - ✅ Contract: [BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp](https://solscan.io/token/BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp/)
 - Whitepaper - [Gitbook](https://lizacoin.gitbook.io/launchbar/general/tokenomics-maremma)
 
