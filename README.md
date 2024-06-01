@@ -31,12 +31,13 @@
 - ☂️ Add a Project Sale (Free)
 - ☂️ Add a Press-Release (Free)
 - 💲 Swap - BNB, BUSD, USDT, USDC > LZC
-- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
-- 📊 Staking LZC (Plan-A), (Plan-B - Soon)
+- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ...
+- 📊 Staking LZC
 - 💫 Surfing (Soon)
 - 🏆 Hippodrome (Soon)
 - 🏆 Dog races (Soon)
-- 👬 Partner programme
+- 👬 Affiliate
+- 👬 Become a Partners
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
