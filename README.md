@@ -16,7 +16,7 @@
 
 - 💎 Token MAREMMA (Solana)
 - ✅ Symbol: MAREMMA
-- ✅ Total Supply: 1 m
+- ✅ Total Supply: 100,000,000
 - ✅ Contract: [BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp](https://solscan.io/token/BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp/)
 - Whitepaper - [Gitbook](https://lizacoin.gitbook.io/launchbar/general/tokenomics-maremma)
 
