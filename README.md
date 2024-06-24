@@ -12,7 +12,7 @@
 - 💠 Audit - [BlockSafu](https://blocksafu.com/audit/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
-![Малый баннер](https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f6261666b72656962347037657535376237346c75366d7779637a66773637726871356c3668687a33673237687a6564767a6f783665746a667971752e697066732e6e667473746f726167652e6c696e6b)
+![Малый баннер](https://tcpcoins.net/uploads/s/7/a/g/7agy4blgatdj/img/full_n9D2BoLJ.gif)
 
 - 💎 Token MAREMMA (Solana)
 - ✅ Symbol: MAREMMA
