@@ -35,6 +35,8 @@
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
+![Малый баннер](https://ukit.com/uploads/s/7/a/g/7agy4blgatdj/file/full_rNeA5dlD.svg)
+
 - 🌀 Links - Social Networks
 - 🌐 https://launchbar.pro
 - 🇷🇺 https://tcpcoins.net
