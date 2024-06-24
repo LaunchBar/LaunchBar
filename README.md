@@ -20,7 +20,7 @@
 - ✅ Contract: [BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp](https://solscan.io/token/BuDK6RD8BturuM3jUjRM27Sp4XiHFnXmShdfaZvjZ1Qp/)
 - Whitepaper - [Gitbook](https://lizacoin.gitbook.io/launchbar/general/tokenomics-maremma)
 
-![Малый баннер](https://tcpcoins.net/uploads/s/7/a/g/7agy4blgatdj/img/full_n9D2BoLJ.gif)
+![Малый баннер]([https://tcpcoins.net/uploads/s/7/a/g/7agy4blgatdj/img/full_n9D2BoLJ.gif](https://tcpcoins.net/)
 
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
