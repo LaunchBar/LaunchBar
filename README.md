@@ -29,14 +29,9 @@
 - ☂️ Add an Airdrop (Free)
 - ☂️ Add a Project Sale (Free)
 - ☂️ Add a Press-Release (Free)
-- 💲 Swap - BNB, BUSD, USDT, USDC > LZC
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ...
 - 📊 Staking LZC
-- 💫 Surfing (Soon)
-- 🏆 Hippodrome (Soon)
-- 🏆 Dog races (Soon)
-- 👬 Affiliate
-- 👬 Become a Partners
+- 👬 Partners
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
