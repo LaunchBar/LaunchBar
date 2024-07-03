@@ -2,7 +2,7 @@
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
 
-![Малый баннер](https://ukit.com/uploads/s/7/a/g/7agy4blgatdj/img/full_4ew5rkTH.png)
+![Малый баннер](https://lizacoin.gitbook.io/~gitbook/image?url=https%3A%2F%2F2938152401-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FvfqNUBP6PJMHLS71BTZF%252Fuploads%252Fg0ykIjDY4sOjGcDfd8Dc%252F1-%25201LaunchBar.png%3Falt%3Dmedia%26token%3D2e57db4f-67f8-415f-9a21-2bbda5ce26a9&width=768&dpr=1&quality=100&sign=fbf1de81&sv=1)
 
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
