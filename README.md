@@ -2,6 +2,8 @@
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
 
+![Малый баннер](https://ukit.com/uploads/s/7/a/g/7agy4blgatdj/img/full_4ew5rkTH.png)
+
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
 - 💫 Coin, AirDrop, PreSale & Press-Release List
@@ -14,8 +16,6 @@
 - 👬 Partners
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
-
-![Малый баннер](https://ukit.com/uploads/s/7/a/g/7agy4blgatdj/img/full_4ew5rkTH.png)
 
 - 🌀 Links - Social Networks
 - 🌐 https://launchbar.pro
