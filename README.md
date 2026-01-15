@@ -12,7 +12,10 @@
 - ☂️ Add a Project Sale (Free)
 - ☂️ Add a Press-Release (Free)
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ...
-- 📊 IDO +Drop (10%) & Staking LZC
+- ♻️ Swap coin
+- 💸 IDO +Drop (10%) LZC
+- 💰 Staking LZC
+- 🏆 Game - PONY POL 90%
 - 👬 Partners
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
