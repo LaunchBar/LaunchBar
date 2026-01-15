@@ -19,8 +19,6 @@
 
 - 🌀 Links - Social Networks
 - 🌐 https://launchbar.pro
-- 🇷🇺 https://tcpcoins.net
-- 🇬🇧 https://en.tcpcoins.net
 - 1️⃣ https://x.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 3️⃣ https://t.me/metamarketnews
