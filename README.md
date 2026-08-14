@@ -14,7 +14,7 @@
 - 💲 Swap Coin
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
 - 📊 Staking LZC {Active}
-- 🎮 Hippodrome PONY {Soon}
+- 🎮 Game Pony Bar
 - 👬 Partner programme
 - ✂️ Advertise on our platform!
 
@@ -25,7 +25,6 @@
 - 1️⃣ https://x.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 3️⃣ https://t.me/metamarketnews
-- 4️⃣ https://discord.com/invite/EWqqBu4
 
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
